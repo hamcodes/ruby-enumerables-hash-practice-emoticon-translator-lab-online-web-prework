@@ -26,6 +26,6 @@ end
 
 def get_english_meaning
   library = load_library(file_path) 
-  result = library['get_emoticon'][emoticon]
+  result = library['get_english_meaning'][emoticon]
   
 end
