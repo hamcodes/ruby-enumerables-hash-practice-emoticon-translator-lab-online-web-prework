@@ -6,7 +6,9 @@ def load_library(emoticons)
     value.each do |new_value, names|
       names.each do |name|
 emoticons
-
+end
+end
+end
 end
 
 def get_japanese_emoticon
